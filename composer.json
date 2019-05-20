@@ -1,0 +1,18 @@
+{
+    "name": "koolreport/platesphp",
+    "version":"1.0.0",
+    "description": "Allow KoolReport to use platesphp template engine to render view",
+    "keywords": ["PHP","Reporting Tools","Data Report","platesphp","template engine"],
+    "homepage": "https://www.koolreport.com",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KoolPHP Inc",
+            "homepage": "https://www.koolphp.net"
+        }
+    ],
+    "require": {
+        "league/plates":"v4.0.0-alpha"
+    }
+}
