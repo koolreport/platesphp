@@ -40,7 +40,7 @@ koolreport
 #### By composer
 
 ```
-composer require koolreport\platesphp
+composer require koolreport/platesphp
 ```
 
 ## Get started
